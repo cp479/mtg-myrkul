@@ -1,4 +1,10 @@
 # mtg-myrkul
+<h1>V2.5.1</h1>
+<ul>
+<li> Minor edits to intro section
+</li>
+</ul>
+
 <h1>V2.5</h1>
 <ul>
 <li> Update colour theme
