@@ -31,7 +31,7 @@
 
 <h1>V1.1</h1>
 <ul>
-<li> Add html, css, files
+<li> Add html, css, and js files
 </li>
 </ul>
 
